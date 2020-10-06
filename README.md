@@ -1,4 +1,4 @@
-# The-Spark-Internship
+# The-Spark-GRIP-Internship
 Task 1
 Explore Supervised Machine Learning-Predict scores
 In this regression task we will predict the percentage of
